@@ -1,0 +1,1 @@
+/home/datamancer/.config/i3/
